@@ -1,0 +1,248 @@
+{
+  "access": 2,
+  "added_on": "2023-08-17T14:59:52.626832+00:00",
+  "age_rating": 18,
+  "builds": [
+    {
+      "branch": null,
+      "date_published": "2023-08-11T05:30:09+00:00",
+      "generation": 2,
+      "id": 56699004712175290,
+      "legacy_build_id": null,
+      "link": "https://gog-cdn-fastly.gog.com/content-system/v2/meta/76/34/76340d7701d92e569f7cf75780912d52",
+      "listed": true,
+      "meta_id": "76340d7701d92e569f7cf75780912d52",
+      "os": "windows",
+      "product_id": 1998527297,
+      "public": true,
+      "tags": ["receiver_v1", "csb_10_6_1_w_158"],
+      "version": "1.10.163.0"
+    }
+  ],
+  "changelog": null,
+  "comp_systems": ["windows"],
+  "copyright": "© 2015 Bethesda Softworks LLC, a ZeniMax Media company. Bethesda, Bethesda Softworks, Bethesda Game Studios, ZeniMax and related logos are registered\ntrademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. Fallout, Vault Boy, and related logos are registered trademarks or trademarks of\nBethesda Softworks LLC in the U.S. and/or other countries. All other trademarks or trade names are the property of their respective owners. All Rights Reserved.",
+  "cs_systems": ["windows"],
+  "description": "<p><img src=\"https://items.gog.com/fallout_4/fallout4_reviewscore_graphic-09.jpg\" /></p>\n<br>\n<hr>\n<b>Fallout 4: Game of the Year Edition</b> includes the base game and all the following add-ons:\n<br>\n<br>\n<ul class=\"bb_ul\">\n<li><b>Far Harbor</b> - A new case from Valentine’s Detective Agency leads you on a search for a young woman and a secret colony of synths. Travel off the coast of Maine to the mysterious island of Far Harbor, where higher levels of radiation have created a more feral world.</li>\n<li><b>Automatron</b> - The mysterious Mechanist has unleashed a horde of evil robots into the Commonwealth, including the devious Robobrain. Hunt them down and harvest their parts to build and mod your own custom robot companions.</li>\n<li><b>Nuka-World</b> - Take a trip to Nuka-World, a vast amusement park now a lawless city of Raiders. Explore an all-new region with an open wasteland and park zones like Safari Adventure, Dry Rock Gulch, Kiddie Kingdom, and the Galactic Zone.</li>\n<li><b>Wasteland Workshop</b> - With the Wasteland Workshop, design and set cages to capture live creatures – from raiders to Deathclaws! Tame them or have them face off in battle, even against your fellow settlers.</li>\n<li><b>Contraptions Workshop</b> - Machines that sort! Machines that build! Machines that combine! With Fallout 4 Contraptions, use conveyer belts, scaffolding kits, track kits, even logic gates to construct crazy and complex gadgets to improve your Wasteland settlements.</li>\n<li><b>Vault-Tec Workshop</b> - Build a brighter future underground with the all-new Vault-Tec Workshop. Create a massive Vault and attract new Dwellers using pre-war industrial kits complete with retro-nostalgic furniture, lighting, and art.</li>\n</ul>\n<br>\n<hr>\nBethesda Game Studios, the award-winning creators of Fallout 3 and The Elder Scrolls V: Skyrim, welcome you to the world of Fallout 4 – their most ambitious game ever, and the next generation of open-world gaming.\n<br>\n\n<br>\nAs the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the fate of the Wasteland. Welcome home.<h4>Key Features:</h4><ul class=\"bb_ul\"><li><b>Freedom and Liberty!</b>\n<br>\nDo whatever you want in a massive open world with hundreds of locations, characters, and quests. Join multiple factions vying for power or go it alone, the choices are all yours.\n<br>\n\n<br>\n</li><li><b>You’re S.P.E.C.I.A.L!</b>\n<br>\nBe whoever you want with the S.P.E.C.I.A.L. character system. From a Power Armored soldier to the charismatic smooth talker, you can choose from hundreds of Perks and develop your own playstyle.\n<br>\n \n<br>\n</li><li><b>Super Deluxe Pixels!</b>\n<br>\nAn all-new next generation graphics and lighting engine brings to life the world of Fallout like never before. From the blasted forests of the Commonwealth to the ruins of Boston, every location is packed with dynamic detail. \n<br>\n\n<br>\n</li><li><b>Violence and V.A.T.S.!</b>\n<br>\nIntense first or third person combat can also be slowed down with the new dynamic Vault-Tec Assisted Targeting System (V.A.T.S) that lets you choose your attacks and enjoy cinematic carnage.\n<br>\n\n<br>\n</li><li><b>Collect and Build!</b>\n<br>\nCollect, upgrade, and build thousands of items in the most advanced crafting system ever. Weapons, armor, chemicals, and food are just the beginning - you can even build and manage entire settlements.</li></ul>\n<br>\n<p class=\"module\">Please note that the DRM-Free version of Fallout 4 GOTY does not include the Creation Club feature. For a premium modding experience, we recommend  <a href=\"https://www.nexusmods.com/fallout4\">Nexus Mods</a>, which provides free access to tens of thousands of amazing modifications, and hundreds of curated <a href=\"https://next.nexusmods.com/fallout4/collections\">collections</a>.</p>",
+  "developers": ["Bethesda Game Studios"],
+  "dl_bonus": [],
+  "dl_installer": [
+    {
+      "files": [
+        {
+          "downlink": "https://api.gog.com/products/1998527297/downlink/installer/en1installer0",
+          "id": "en1installer0",
+          "size": 1048576
+        },
+        {
+          "downlink": "https://api.gog.com/products/1998527297/downlink/installer/en1installer1",
+          "id": "en1installer1",
+          "size": 4292870144
+        },
+        {
+          "downlink": "https://api.gog.com/products/1998527297/downlink/installer/en1installer2",
+          "id": "en1installer2",
+          "size": 4293918720
+        },
+        {
+          "downlink": "https://api.gog.com/products/1998527297/downlink/installer/en1installer3",
+          "id": "en1installer3",
+          "size": 4293918720
+        },
+        {
+          "downlink": "https://api.gog.com/products/1998527297/downlink/installer/en1installer4",
+          "id": "en1installer4",
+          "size": 4293918720
+        },
+        {
+          "downlink": "https://api.gog.com/products/1998527297/downlink/installer/en1installer5",
+          "id": "en1installer5",
+          "size": 4293918720
+        },
+        {
+          "downlink": "https://api.gog.com/products/1998527297/downlink/installer/en1installer6",
+          "id": "en1installer6",
+          "size": 4293918720
+        },
+        {
+          "downlink": "https://api.gog.com/products/1998527297/downlink/installer/en1installer7",
+          "id": "en1installer7",
+          "size": 4293918720
+        },
+        {
+          "downlink": "https://api.gog.com/products/1998527297/downlink/installer/en1installer8",
+          "id": "en1installer8",
+          "size": 4293918720
+        },
+        {
+          "downlink": "https://api.gog.com/products/1998527297/downlink/installer/en1installer9",
+          "id": "en1installer9",
+          "size": 224395264
+        }
+      ],
+      "id": "installer_windows_en",
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "name": "Fallout 4: Game of the Year Edition",
+      "os": "windows",
+      "total_size": 34575745024,
+      "version": "1.10.163.0"
+    }
+  ],
+  "dl_langpack": [],
+  "dl_patch": [],
+  "dlcs": [1408237434],
+  "editions": [],
+  "features": [
+    {
+      "id": "achievements",
+      "name": "Achievements"
+    },
+    {
+      "id": "cloud_saves",
+      "name": "Cloud saves"
+    },
+    {
+      "id": "controller_support",
+      "name": "Controller support"
+    },
+    {
+      "id": "overlay",
+      "name": "Overlay"
+    },
+    {
+      "id": "single",
+      "name": "Single-player"
+    }
+  ],
+  "global_date": "2015-11-10T00:00:00+02:00",
+  "id": 1998527297,
+  "image_background": "def5acd30727d40c48673d991fc828abf75a8d6400a790c51fe19f0f1b94ee2e",
+  "image_boxart": "634bb301339d0a687a034801434197f88ded87326fcbe66338e8a798ffc64ad4",
+  "image_galaxy_background": "a617fe8e9f37d4f66f2fe34d00efae0d44646e2ad8696c84012e498756310ce4",
+  "image_icon": "4f164c1659b7f85790abe8484cd4de6068778c2dc0d62a34b301b4185c0e89bf",
+  "image_icon_square": "811ae070fcf4c2dd6dc664579412f90bb3b67642c4e894dd40e34e5a4b8bc7de",
+  "image_logo": "8b074a51347f0377d0a60ac241e8c5535d829540fe9c2e7ddf9277e4cc6d53d1",
+  "includes_games": [],
+  "is_in_development": false,
+  "is_included_in": [],
+  "is_using_dosbox": false,
+  "last_updated": "2024-08-07T06:52:45.941684+00:00",
+  "link_forum": "https://www.gog.com/forum/fallout_series",
+  "link_store": "https://www.gog.com/en/game/fallout_4_game_of_the_year_edition",
+  "link_support": "https://www.gog.com/support/fallout_4_game_of_the_year_edition",
+  "localizations": [
+    {
+      "audio": false,
+      "code": "br",
+      "name": "Portuguese (Brazilian)",
+      "text": true
+    },
+    {
+      "audio": true,
+      "code": "de",
+      "name": "German",
+      "text": true
+    },
+    {
+      "audio": true,
+      "code": "en",
+      "name": "English",
+      "text": true
+    },
+    {
+      "audio": true,
+      "code": "es",
+      "name": "Spanish",
+      "text": true
+    },
+    {
+      "audio": true,
+      "code": "fr",
+      "name": "French",
+      "text": true
+    },
+    {
+      "audio": true,
+      "code": "it",
+      "name": "Italian",
+      "text": true
+    },
+    {
+      "audio": false,
+      "code": "pl",
+      "name": "Polish",
+      "text": true
+    },
+    {
+      "audio": false,
+      "code": "ru",
+      "name": "Russian",
+      "text": true
+    }
+  ],
+  "publisher": "Bethesda Softworks LLC",
+  "rank_bestselling": 333,
+  "rank_trending": 0,
+  "required_by": [1408237434],
+  "requires": [],
+  "screenshots": [
+    "7d890f4fd6cae24928c39263d6cc1be1d98f033d97a2bcbbabd8a27257a1a1cc",
+    "fb681f9ec219169674a65f1d59e2e95323840dec14bafb791b1802565b21ce2e",
+    "13e6b550e16944ad923c38f78afdac27371f5ead8c74960da8ca8ecc0013ecc2",
+    "74a643bd9078760178b5abd58764d74875165d18a3dbf43d1cc01d81a8c38c9a",
+    "fa3f573db170679b3f572135afa15d204bd454d7cc4e19db12fcc7a199cd7107",
+    "9f9b21e69addf88b99bd9dd8ac6c1546cf0b1f4c42094145b1fb364248d2029a",
+    "cc63089464cd54b9cbf883cca5f2554cba178a588037f5d1e41a08c3e6c9cde5",
+    "df0286f619b32b743d866613082d699a5f8156676deb5d4b168a3370b5b2e534",
+    "f11b2773c16dcf16eb5db4c6fc152a02fe6e4e4a2726c7eeeadd54191f1fbd04",
+    "de5b92e045f86bb3f5f9a2c5cb24e9c58ebe63bcbae4bfac46353431b87c0b8d",
+    "09e8e59ff909c5436a64f2609f0b7b9385449dac762ae3aa0fb56c9df56923a3",
+    "1b9d718890120f3493dcd8f3569312b1475e6001e609aec582357377315665c2",
+    "5157f66091a9a910bdf8b9ad7b94084236d04d560c7077fb1a8e07c347eddc4d",
+    "2a14826678b5466ac7ccf57756c22d3b0847fbc77e1a0282a4aec13f3c3c3fda",
+    "076cd11e6858e18e0059ff608fa179e76fe8144a2d731784db2e315585fec7ec",
+    "3cd6b6e4b0c1425c325adc4fc715694cd169a986fc5bebaf6033210b18718e87",
+    "b55f08f10bc05172b1051dd49038e2947a946cb1de129fe1c6d248af3092c1dd",
+    "e9d9242779d0c5f86fdb3c29ab626860bafdd510a74be1c23c9af7ac74f0e139",
+    "7ef103025cdd6bf795db2082bffe105d4b84b2032976db4357ae4a05da0222b2",
+    "04b82cd3826fa573c5deef88db29172985dfbccd606a0f2f977de4222d278ff1",
+    "68764afe439913c9e241ae400ab194f34a5048579c33b63551f5e1fc2097c802"
+  ],
+  "series": null,
+  "slug": "fallout_4_game_of_the_year_edition",
+  "store_date": "2023-08-17T16:50:00+03:00",
+  "store_state": "default",
+  "tags": [
+    {
+      "id": 57,
+      "level": 1,
+      "name": "Role-playing",
+      "slug": "rpg"
+    },
+    {
+      "id": 64,
+      "level": 2,
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "id": 123,
+      "level": 3,
+      "name": "Open World",
+      "slug": "open-world"
+    }
+  ],
+  "title": "Fallout 4: Game of the Year Edition",
+  "type": "game",
+  "user_rating": 38,
+  "videos": [
+    {
+      "provider": "youtube",
+      "thumbnail_url": "https://img.youtube.com/vi/EgimUJoz2Zk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/EgimUJoz2Zk?wmode=opaque&rel=0"
+    }
+  ]
+}
